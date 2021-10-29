@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<<<<<<< HEAD
 <!--
 **IiGgKk/IiGgKk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +21,7 @@ Here are some ideas to get you started:
 
 
 
+=======
+test
+test
+>>>>>>> 6bd7898d3346d3925ff02fbcf8c3199c59c7d2a2
